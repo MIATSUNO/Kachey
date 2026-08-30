@@ -1,2 +1,1 @@
-# Kachey
-Public home for Kachey — a project by MIATSUNO.
+https://github.com/MIATSUNO/Kachey
