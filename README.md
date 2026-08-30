@@ -1,1 +1,1 @@
-https://github.com/MIATSUNO/Kachey
+https://kachey.neocities.org
